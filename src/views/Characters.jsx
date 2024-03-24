@@ -3,7 +3,7 @@ import { PokemonContext } from '../context/PokemonContext'
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form'
 import Container from 'react-bootstrap/Container'
-import ErrorFetch from '../components/errorFetch'
+import ErrorFetch from '../components/ErrorFetch'
 import '../assets/css/characters.css'
 
 const Characters = () => {
