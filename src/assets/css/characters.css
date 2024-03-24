@@ -1,0 +1,17 @@
+.character {
+  background-image: url('../img/back_img.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left ;
+  height: 100vh;
+  margin: 0;
+}
+
+.text-char {
+  color: #292929;
+  font-weight: 600;
+  text-align: center;
+  font-size: 28px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px #530e0b;
+}

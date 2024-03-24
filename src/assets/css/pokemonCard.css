@@ -1,0 +1,9 @@
+.card {
+  background-image: url('../img/pokedex.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  text-transform: uppercase;
+}

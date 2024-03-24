@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(to bottom right, #f6bd20, #c52018);
+  min-height: 100vh;
+  color: #623108;
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar {
+  background-color: #f6bd20;
+
+  letter-spacing: 2px;
+}
+
+.active {
+  color: #c52018;
+  text-shadow: 1px 1px #530e0b;
+}
+
+.notActive {
+  color: #623108
+}
